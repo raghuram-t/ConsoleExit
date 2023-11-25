@@ -1,0 +1,5 @@
+G:\Builds\ConsoleExit4.exe
+G:\Builds\ConsoleExit4.dll
+G:\Builds\ConsoleExit4.deps.json
+G:\Builds\ConsoleExit4.runtimeconfig.json
+G:\Builds\ConsoleExit4.pdb

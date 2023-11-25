@@ -1,0 +1,14 @@
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\bin\Release\net7.0\ConsoleExit4.exe
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\bin\Release\net7.0\ConsoleExit4.deps.json
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\bin\Release\net7.0\ConsoleExit4.runtimeconfig.json
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\bin\Release\net7.0\ConsoleExit4.dll
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\bin\Release\net7.0\ConsoleExit4.pdb
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\obj\Release\net7.0\ConsoleExit4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\obj\Release\net7.0\ConsoleExit4.AssemblyInfoInputs.cache
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\obj\Release\net7.0\ConsoleExit4.AssemblyInfo.cs
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\obj\Release\net7.0\ConsoleExit4.csproj.CoreCompileInputs.cache
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\obj\Release\net7.0\ConsoleExit4.dll
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\obj\Release\net7.0\refint\ConsoleExit4.dll
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\obj\Release\net7.0\ConsoleExit4.pdb
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\obj\Release\net7.0\ConsoleExit4.genruntimeconfig.cache
+C:\Users\Raghu\source\repos\ConsoleExit4\ConsoleExit4\obj\Release\net7.0\ref\ConsoleExit4.dll
